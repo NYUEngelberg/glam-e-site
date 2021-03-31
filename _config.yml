@@ -1,0 +1,33 @@
+# Your Name or Company
+title: GLAM-E Lab
+
+# Description of your website. This is used for social sharing.
+description:  GLAM-E - Helping GLAMs go open online
+
+# A brief blurb about yourself
+content: The GLAM-E Lab is a joint initiative between the Centre for Science, Culture and the Law at the University of Exeter and the Engelberg Center on Innovation Law & Policy at NYU Law to work with smaller and less well-resourced UK and US cultural institutions and community organizations to build open access capacity and expertise.  Questions? Email info@GLAMeLab.org
+
+# Add your social links
+social:
+  - platform: SCuLE
+    url: http://sculecentre.ex.ac.uk/
+  - platform: Engelberg
+    url: https://www.law.nyu.edu/centers/engelberg
+  - platform: EC Twitter
+    url: https://twitter.com/NYUEngelberg
+
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni"
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
